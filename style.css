@@ -31,9 +31,6 @@ font-size: 20px;
     margin-right: 5%;
 }
 
-img {
-  height: 200px;
-}
 .categoria-videos{
   display: flex;
   overflow-x: auto;
@@ -48,4 +45,5 @@ img {
 
 .categoria-videos img {
   opacity: 0.5;
+  height: 200px;
 }
