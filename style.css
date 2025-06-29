@@ -14,15 +14,15 @@ header {
 }
 
 .chamada {
-    background: rgb(184, 156, 213);
-    padding-bottom: 80px;
-    padding-top: 80px;
-     display: flex;
-     justify-content: center;
+  background: rgb(184, 156, 213);
+  padding-bottom: 80px;
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
 }
 
 .chamada-texto {
-    margin-right: 5%;
+  margin-right: 5%;
 }
 
 h1 {
@@ -53,8 +53,8 @@ font-size: 20px;
 }
 
 .categoria-videos img:hover {
-    opacity: 1.0;
-    border: 1px solid green;
+  opacity: 1.0;
+  border: 1px solid green;
 }
 
 .categoria h2 {
