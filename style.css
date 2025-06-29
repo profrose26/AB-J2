@@ -12,13 +12,6 @@ header {
  font-size: 32px;
  color: rgb(42, 122, 228);
 }
-h1 {
-font-size: 30px;
-}
-
-p {
-font-size: 20px;
-}
 
 .chamada {
     background: rgb(184, 156, 213);
@@ -32,6 +25,13 @@ font-size: 20px;
     margin-right: 5%;
 }
 
+h1 {
+font-size: 30px;
+}
+
+p {
+font-size: 20px;
+}
 .categoria-videos{
   display: flex;
   overflow-x: auto;
