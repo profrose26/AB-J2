@@ -49,10 +49,9 @@ img {
   margin-top: 50px;
 }
 
-
 .categoria-videos img {
-  opacity: 0.5;
-  height: 200px;
+    opacity: 0.5;
+    height: 200px;
 }
 
 .categoria-videos img:hover {
